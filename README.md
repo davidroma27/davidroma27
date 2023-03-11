@@ -22,8 +22,8 @@
 
 <hr></hr>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=davidroma27&theme=aura&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidroma27&layout=compact&theme=aura)
+![Stats](https://github-readme-stats.vercel.app/api?username=davidroma27&theme=aura&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidroma27&layout=compact&theme=aura&count_private=true)
 
 
 <!--
