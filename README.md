@@ -9,10 +9,11 @@
 <h3 align="center">:point_down: Here you can see some of my skills and technologies I had been working with :point_down:</h3>
 
 <p align="center" dir="auto">
+  <a href="https://www.cypress.io/" rel="nofollow"><img src="https://user-images.githubusercontent.com/60992207/224495021-50d316f7-bc1a-45f0-b766-87691c4f5e43.png" alt="Cypress" width="40" height="40" style="max-width: 100%;"></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" rel="nofollow"><img src="https://user-images.githubusercontent.com/60992207/195097893-ff72cb23-1b52-40ed-b360-67f561e471a4.png" alt="js" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://www.python.org/" rel="nofollow"><img src="https://user-images.githubusercontent.com/60992207/195092353-5ae335bf-e9fe-42ed-9564-164589ef97be.png" alt="Python" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" rel="nofollow"><img src="https://user-images.githubusercontent.com/60992207/195097120-bd839d31-feba-4cc8-943b-783f3686ecad.png" alt="html" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://sass-lang.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/60992207/195097572-d22ec40e-47e4-4162-bad9-ac941cc4fe16.png" alt="sass" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" rel="nofollow"><img src="https://user-images.githubusercontent.com/60992207/195097893-ff72cb23-1b52-40ed-b360-67f561e471a4.png" alt="js" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://www.php.net/" rel="nofollow"><img src="https://user-images.githubusercontent.com/60992207/195097345-e558316f-1d06-448a-941c-a97e64dc1dd1.png" alt="php" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://www.java.com/es/" rel="nofollow"><img src="https://user-images.githubusercontent.com/60992207/195097780-194b8a9d-6acc-4599-b530-ff4b769715cf.png" alt="java" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://isocpp.org/" rel="nofollow"><img src="https://user-images.githubusercontent.com/60992207/195098280-00e60f6e-9e77-4afb-b75c-e6708ae298b8.png" alt="c" width="40" height="40" style="max-width: 100%;"></a>
