@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center"> I'm a Computer Engineer interested in learning new technologies and looking for focusing in web development </h2>
-<h2 align="center"> I'm currently working in QA Testing & Automation department for Inditex </h2>
+<h2 align="center"> I'm currently working as QA Engineer for Inditex </h2>
 
 <h3 align="center">:point_down: Here you can see some of my skills and technologies I had been working with :point_down:</h3>
 
